@@ -5,7 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry excluding="demo/|dd/|soru6/IO/demo/|deneme/|deneme/deneme/|soru6/IO/text/" kind="src" path="src"/>
 	<classpathentry kind="src" path="src/deneme/deneme"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
